@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/new/icons">
+        <file>Jonathan-Rey-Devices-Pack-3-Hard-Disk-HDD-3.5-SATA.ico</file>
+        <file>Rimshotdesign-Nod2-Hard-Disk-Server.ico</file>
+        <file>Ccard3dev-Dynamic-Yosemite-OS-X-Server.ico</file>
+        <file>1421440362_17823.ico</file>
+        <file>1421440448_17823.ico</file>
+    </qresource>
+</RCC>
