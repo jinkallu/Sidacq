@@ -3,6 +3,9 @@
 SIDACQ is a Qt-based data acquisition (DAQ) application designed to read, configure, and store data from Multi-Wire Proportional Chambers (MWPCs). It specifically interfaces with CAEN V1724 digitizers to handle the analog-to-digital conversion of signals from the chamber's 95 wire outputs (distributed across 5 wire planes, each with 19 wires).
 
 The system provides a graphical user interface for complete control over the DAQ process, from hardware initialization to real-time data storage in a MySQL database.
+![Alt text](./src/images/1.png)
+![Alt text](./src/images/2.png)
+
 
 ## System Architecture
 
